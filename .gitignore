@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+/.run/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
